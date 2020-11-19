@@ -1,0 +1,16 @@
+.img{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    
+}
+
+.gatos{
+    width: 500px;
+}
+
+body{
+    background-color: #65a2f3;
+
+}
